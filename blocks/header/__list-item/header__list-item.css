@@ -1,0 +1,7 @@
+.header__list-item {
+  margin: 0 0 0 28px;
+}
+
+.header__list-item:nth-of-type(1) {
+  margin: 0;
+}
