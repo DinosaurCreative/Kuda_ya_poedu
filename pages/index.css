@@ -8,6 +8,7 @@
 @import url(../blocks/page/__container/page__container.css);
 
 
+
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__links/header__links.css);
 @import url(../blocks/header/__link/header__link.css);
@@ -16,8 +17,11 @@
 @import url(../blocks/header/__list-item/header__list-item.css);
 
 
+
+@import url(../blocks/__title/section__title-flex.css);
+@import url(../blocks/__subtitle/section__subtitle-flex.css);
+@import url(../blocks/__subtitle/_intro/section_subtitle-flex_intro.css);
+
 @import url(../blocks/intro/intro.css);
-@import url(../blocks/intro/__title/intro__title.css);
-@import url(../blocks/intro/__text/intro__text.css);
-@import url(../blocks/intro/__subtitle/intro__subtitle.css);
+@import url(../blocks/intro/__text/intro__text-container.css);
 @import url(../blocks/intro/__image/intro__image.css);
