@@ -1,0 +1,6 @@
+.form__rigth-side {
+  background-image: url(../../../images/airport-schedule.jpg);
+  width: 50%;
+  min-height: 625px;
+  background-size: cover;
+}

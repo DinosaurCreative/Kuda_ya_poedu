@@ -18,10 +18,20 @@
 
 
 
-@import url(../blocks/__title/section__title-flex.css);
-@import url(../blocks/__subtitle/section__subtitle-flex.css);
-@import url(../blocks/__subtitle/_intro/section_subtitle-flex_intro.css);
+@import url(../blocks/section-title/section-title.css);
+@import url(../blocks/section-subtitle/section-subtitle.css);
+@import url(../blocks/section-subtitle/_intro/section-subtitle_intro.css);
+
 
 @import url(../blocks/intro/intro.css);
 @import url(../blocks/intro/__text/intro__text-container.css);
 @import url(../blocks/intro/__image/intro__image.css);
+
+
+@import url(../blocks/form/form.css);
+@import url(../blocks/form/__rigth-side/form__rigth-side.css);
+@import url(../blocks/form/__left-side/form__left-side.css);
+@import url(../blocks/form/__title/form__title.css);
+@import url(../blocks/form/__input/form__input.css);
+@import url(../blocks/form/__input/_large/form__imput_large.css);
+@import url(../blocks/form/__input/_small/form__input_small.css);

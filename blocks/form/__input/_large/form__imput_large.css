@@ -1,0 +1,11 @@
+.form__imput_large {
+  margin: 30px auto 0 70px;
+  width: 350px;
+  height: 100px;
+  line-height: 27px;
+}
+
+.form__input_large::-webkit-input-placeholder {color: black;}
+.form__input_large::-moz-placeholder          {color: black;}
+.form__input_large:-moz-placeholder           {color: black;}
+.form__input_large:-ms-input-placeholder      {color: black;}
