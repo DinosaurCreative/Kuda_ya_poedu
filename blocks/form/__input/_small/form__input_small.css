@@ -1,9 +1,9 @@
- .form__input_smal {
-    margin: 100px auto 0 66px;
-    width: 350px;
-    height: 100px;
-    line-height: 27px;
- }
+.form__input_smal {
+  margin: 83px auto 0 70px;
+  width: 350px;
+  height: 27px;
+  line-height: 27px;
+}
 
 .form__input_smal::-webkit-input-placeholder {color: black;}
 .form__input_smal::-moz-placeholder          {color: black;}

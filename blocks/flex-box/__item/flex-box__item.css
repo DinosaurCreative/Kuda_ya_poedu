@@ -1,0 +1,19 @@
+.flex-box__item {
+    margin-top: 137px;
+    margin-right: 75px;
+    max-width: 170px;
+}
+
+.flex-box__item:last-child {
+    margin-right: 96px;
+}
+
+@media screen and (max-width: 767px) {
+    .flex-box__item {
+        margin:40px auto 0 auto;
+    }
+    .flex-box__item:last-child {
+        margin:40px auto 0 auto;
+    }
+    
+}

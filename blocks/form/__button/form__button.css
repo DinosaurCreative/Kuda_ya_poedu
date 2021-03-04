@@ -1,0 +1,10 @@
+.form__button {
+  color: white;
+  background-color: black;
+  margin-top: 15px;
+  line-height: 27px;
+  width: 205px;
+  margin: 15px auto 0 auto;
+  font-size: inherit;
+  padding: 0;
+}
