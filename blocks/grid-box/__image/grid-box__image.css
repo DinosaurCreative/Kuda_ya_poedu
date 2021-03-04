@@ -1,13 +1,7 @@
 .grid-box__image {
     margin:0 auto;
-    max-width:698px;
-    max-height: 580px;
+    max-width:90%;
+    max-height: 80%;
     object-fit: cover;
 }
 
-@media screen and (max-width: 767px) {
-    .photo-grid__item {
-        max-width: 340px;
-        max-height: 300px;
-    }
-}
