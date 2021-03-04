@@ -23,5 +23,32 @@
 @import url(../blocks/__subtitle/_intro/section_subtitle-flex_intro.css);
 
 @import url(../blocks/intro/intro.css);
+<<<<<<< HEAD
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__text/intro__text.css);
+@import url(../blocks/intro/__subtitle/intro__subtitle.css);
+@import url(../blocks/intro/__image/intro__image.css);
+
+@import url(../blocks/grid-box/grid-box.css);
+@import url(../blocks/grid-box/__image/grid-box__image.css);
+@import url(../blocks/grid-box/__content/grid-box__content.css);
+@import url(../blocks/grid-box/_inverse/grid-box_inverse_content.css);
+@import url(../blocks/grid-box/_inverse/grid-box_inverse_image.css);
+@import url(../blocks/grid-box/__title/grid-box__title.css);
+@import url(../blocks/grid-box/__paragraph/grid-box__paragraph.css);
+@import url(../blocks/grid-box/__pic/grid-box__pic.css);
+
+@import url(../blocks/talk-travel/talk-travel.css);
+@import url(../blocks/talk-travel/__title/talk-travel__title.css);
+@import url(../blocks/talk-travel/__subtitle/talk-travel__subtitle.css);
+
+@import url(../blocks/flex-box/flex-box.css);
+@import url(../blocks/flex-box/__item/flex-box__item.css);
+@import url(../blocks/flex-box/__title/flex-box__title.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__title/footer__title.css);
+=======
 @import url(../blocks/intro/__text/intro__text-container.css);
 @import url(../blocks/intro/__image/intro__image.css);
+>>>>>>> 04b417a0f17aa5bdd9146073c47a73faab18370e

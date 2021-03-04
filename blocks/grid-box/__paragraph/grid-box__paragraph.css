@@ -1,0 +1,16 @@
+.grid-box__paragraph {
+    font-size: 14px;
+    margin:0;
+    margin-bottom: 33px;
+}
+
+.grid-box__paragraph:last-child {
+    margin:0;
+}
+
+@media screen and (max-width: 767px) {
+    .grid-box__paragraph {
+        margin-bottom:15px;
+        font-size: 16px;
+    }
+}

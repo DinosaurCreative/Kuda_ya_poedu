@@ -1,0 +1,7 @@
+.grid-box__image {
+    margin:0 auto;
+    max-width:90%;
+    max-height: 80%;
+    object-fit: cover;
+}
+
