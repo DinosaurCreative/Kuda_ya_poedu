@@ -8,7 +8,6 @@
 @import url(../blocks/page/__container/page__container.css);
 
 
-
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__links/header__links.css);
 @import url(../blocks/header/__link/header__link.css);
@@ -17,10 +16,10 @@
 @import url(../blocks/header/__list-item/header__list-item.css);
 
 
-
 @import url(../blocks/section-title/section-title.css);
 @import url(../blocks/section-subtitle/section-subtitle.css);
 @import url(../blocks/section-subtitle/_intro/section-subtitle_intro.css);
+@import url(../blocks/section-subtitle/_talk-travel/section-subtitle__talk-travel.css);
 
 
 @import url(../blocks/intro/intro.css);
@@ -28,6 +27,10 @@
 @import url(../blocks/intro/__text/intro__text-container.css);
 @import url(../blocks/intro/__subtitle/intro__subtitle.css);
 @import url(../blocks/intro/__image/intro__image.css);
+
+
+@import url(../blocks/grid-area/grid-area.css);
+
 
 @import url(../blocks/grid-box/grid-box.css);
 @import url(../blocks/grid-box/__image/grid-box__image.css);
@@ -37,17 +40,18 @@
 @import url(../blocks/grid-box/__title/grid-box__title.css);
 @import url(../blocks/grid-box/__paragraph/grid-box__paragraph.css);
 @import url(../blocks/grid-box/__pic/grid-box__pic.css);
+@import url(../blocks/grid-box/__paragraph-container/grid-box__paragraph-container.css);
+
 
 @import url(../blocks/talk-travel/talk-travel.css);
 @import url(../blocks/talk-travel/__title/talk-travel__title.css);
 @import url(../blocks/talk-travel/__subtitle/talk-travel__subtitle.css);
 
+
 @import url(../blocks/flex-box/flex-box.css);
 @import url(../blocks/flex-box/__item/flex-box__item.css);
 @import url(../blocks/flex-box/__title/flex-box__title.css);
-
-@import url(../blocks/footer/footer.css);
-@import url(../blocks/footer/__title/footer__title.css);
+@import url(../blocks/flex-box/__paragraph/flex-box__paragraph.css);
 
 
 @import url(../blocks/form/form.css);
@@ -60,5 +64,8 @@
 @import url(../blocks/form/__button/form__button.css);
 
 
-@import url(../blocks/haden-daden/haden-daden.css);
 @import url(../blocks/haden-daden/__video/haden-daden__video.css);
+
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__title/footer__title.css);

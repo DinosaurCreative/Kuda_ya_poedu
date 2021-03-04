@@ -4,6 +4,8 @@
   height: 100px;
   line-height: 27px;
   resize: none;
+  letter-spacing: -1px;
+  border-radius: 5px;
 }
 
 .form__input_large::-webkit-input-placeholder {color: black;}

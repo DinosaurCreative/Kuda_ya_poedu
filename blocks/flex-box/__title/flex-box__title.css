@@ -1,4 +1,6 @@
 .flex-box__title {
-    text-transform: uppercase;
-    margin:0;
+  text-transform: uppercase;
+  margin: 0;
+  font-size: 13px;
+  letter-spacing: -1px;
 }

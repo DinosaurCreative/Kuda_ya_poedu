@@ -3,6 +3,8 @@
   width: 350px;
   height: 27px;
   line-height: 27px;
+  letter-spacing: -1px;
+  border-radius: 5px;
 }
 
 .form__input_smal::-webkit-input-placeholder {color: black;}
