@@ -1,0 +1,6 @@
+@media screen and (max-width: 767px) {
+    .grid-box_inverse_content {
+        grid-column-start: 1;
+        grid-row-start: 4 ;
+    }
+}

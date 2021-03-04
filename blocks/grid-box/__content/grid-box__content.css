@@ -1,0 +1,12 @@
+.grid-box__content {
+    max-width: 386px;
+    margin-left: 80px;
+    align-self: start;
+}
+
+@media screen and (max-width: 767px) {
+    .grid-box__content {
+        margin: 10px auto;
+    }
+}
+

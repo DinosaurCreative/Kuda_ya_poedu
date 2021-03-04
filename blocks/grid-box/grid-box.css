@@ -1,0 +1,14 @@
+.grid-box {
+    max-width: 100%;
+    margin:0 auto;
+    background-color:whitesmoke;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 50%);
+}
+
+@media screen and (max-width: 767px) {
+    .grid-box {
+        grid-template-columns: repeat(auto-fit, 398px);
+    }
+}
+
