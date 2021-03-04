@@ -23,13 +23,13 @@
 @import url(../blocks/__subtitle/_intro/section_subtitle-flex_intro.css);
 
 @import url(../blocks/intro/intro.css);
-<<<<<<< HEAD
 @import url(../blocks/intro/__title/intro__title.css);
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__subtitle/intro__subtitle.css);
 @import url(../blocks/intro/__image/intro__image.css);
 
 @import url(../blocks/grid-box/grid-box.css);
+@import url(../blocks/grid-area/grid-area.css);
 @import url(../blocks/grid-box/__image/grid-box__image.css);
 @import url(../blocks/grid-box/__content/grid-box__content.css);
 @import url(../blocks/grid-box/_inverse/grid-box_inverse_content.css);
@@ -48,7 +48,3 @@
 
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__title/footer__title.css);
-=======
-@import url(../blocks/intro/__text/intro__text-container.css);
-@import url(../blocks/intro/__image/intro__image.css);
->>>>>>> 04b417a0f17aa5bdd9146073c47a73faab18370e
