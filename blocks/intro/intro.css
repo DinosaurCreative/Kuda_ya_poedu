@@ -4,3 +4,10 @@
   margin-top: 87px;
   margin-bottom: 132px;
 }
+
+@media screen and (max-width: 767px) {
+  .intro {
+      display: flex;
+      flex-direction: column;
+  }
+}

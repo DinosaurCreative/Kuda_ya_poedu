@@ -1,12 +1,12 @@
 .grid-area {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
 }
 
-@media screen and (max-width: 1023px) {
-    .grid-area {
-        grid-template-columns: repeat(auto-fit, 398px);
-    }
-}
 
+@media screen and (max-width: 767px) {
+  .grid-area {
+    grid-template-columns: 1fr;
+    
+  }
 }

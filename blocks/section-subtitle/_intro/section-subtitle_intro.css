@@ -1,3 +1,9 @@
 .section-subtitle_intro {
   max-width: 574px;
 }
+
+@media screen and (max-width: 820px) {
+  .section-subtitle_intro {
+    font-size: 24px;
+  }
+}

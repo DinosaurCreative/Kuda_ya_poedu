@@ -3,3 +3,13 @@
   justify-content: space-between;
   margin: 45px 66px 0 66px;
 }
+
+@media screen and (max-width: 767px) {
+  .header {
+    display: flex;  
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 15px auto 0 auto;
+    max-width: 356px;
+  }
+}

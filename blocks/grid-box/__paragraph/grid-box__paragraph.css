@@ -6,12 +6,19 @@
 }
 
 .grid-box__paragraph:nth-last-child(1) {
-    margin-bottom: 85px;
+  margin-bottom: 85px;
+}
+
+@media screen and (max-width: 1023px) {
+  .grid-box__paragraph {
+    margin-bottom:15px;
+    font-size: 16px;
+  }
 }
 
 @media screen and (max-width: 767px) {
-    .grid-box__paragraph {
-        margin-bottom:15px;
-        font-size: 16px;
-    }
+  .grid-box__paragraph {
+    margin-bottom:15px;
+    font-size: 16px;
+  }
 }

@@ -7,9 +7,15 @@
   flex-direction: column;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 1023px) {
   .grid-box__content {
-      margin: 10px auto;
+      margin-left: 50px;
+      margin-right: 50px;
+      max-width: 430px;
   }
-}
 
+  @media screen and (max-width: 767px) {
+  .grid-box__content {
+    margin: auto;
+    max-width: 360px;
+  }

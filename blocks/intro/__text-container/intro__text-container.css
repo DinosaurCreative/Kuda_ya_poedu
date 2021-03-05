@@ -1,0 +1,21 @@
+.intro__text-container {
+  margin-left: 66px;
+  align-self: center;  
+}
+
+@media screen and (max-width: 1279px) {
+  .intro__text-container {
+    max-width: 460px;  
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .intro__text-container {
+    max-width: 356px;  
+  }
+}
+@media screen and (max-width: 767px) {
+  .intro__text-container {
+    margin: auto;  
+  }
+}
