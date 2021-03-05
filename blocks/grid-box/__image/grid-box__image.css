@@ -1,4 +1,5 @@
 .grid-box__image {
+<<<<<<< HEAD
   margin: 0;
   width: 100%;
   max-width: 660px;
@@ -41,3 +42,11 @@
     margin: 0 auto 10px auto;
   }
 }
+=======
+    margin:0 auto;
+    max-width:90%;
+    max-height: 80%;
+    object-fit: cover;
+}
+
+>>>>>>> f80915c07772d477c35ea97b9c89caef3632d808

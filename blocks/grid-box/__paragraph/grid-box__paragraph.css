@@ -1,6 +1,7 @@
 .grid-box__paragraph {
     font-size: 14px;
     margin:0;
+<<<<<<< HEAD
     margin-bottom: 26px;
     line-height: 21px;
 }
@@ -22,3 +23,18 @@
     font-size: 16px;
   }
 }
+=======
+    margin-bottom: 33px;
+}
+
+.grid-box__paragraph:last-child {
+    margin:0;
+}
+
+@media screen and (max-width: 767px) {
+    .grid-box__paragraph {
+        margin-bottom:15px;
+        font-size: 16px;
+    }
+}
+>>>>>>> f80915c07772d477c35ea97b9c89caef3632d808
