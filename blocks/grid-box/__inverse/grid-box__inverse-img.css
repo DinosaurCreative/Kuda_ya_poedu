@@ -1,0 +1,6 @@
+
+@media screen and (max-width: 767px) {
+    .grid-box__inverse-img {
+        grid-row-start: 3;
+    }
+    }

@@ -1,7 +1,8 @@
 .grid-box__paragraph {
+    max-width: 380px;
     font-size: 14px;
     margin:0;
-    margin-bottom: 33px;
+   
 }
 
 .grid-box__paragraph:last-child {

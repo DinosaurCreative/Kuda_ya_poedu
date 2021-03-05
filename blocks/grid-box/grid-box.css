@@ -1,5 +1,19 @@
 .grid-box {
-    max-width: 1280px;
+    max-width: 100%;
     margin:0 auto;
     background-color:whitesmoke;
+    padding-bottom: 72px;
+    max-width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 50%);
 }
+
+
+
+
+
+@media screen and (max-width: 767px) {
+    .grid-box {
+        grid-template-columns: repeat(1, 100%);
+    }
+    }

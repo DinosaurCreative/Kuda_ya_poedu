@@ -29,14 +29,13 @@
 @import url(../blocks/intro/__image/intro__image.css);
 
 @import url(../blocks/grid-box/grid-box.css);
-@import url(../blocks/grid-area/grid-area.css);
 @import url(../blocks/grid-box/__image/grid-box__image.css);
 @import url(../blocks/grid-box/__content/grid-box__content.css);
-@import url(../blocks/grid-box/_inverse/grid-box_inverse_content.css);
-@import url(../blocks/grid-box/_inverse/grid-box_inverse_image.css);
 @import url(../blocks/grid-box/__title/grid-box__title.css);
 @import url(../blocks/grid-box/__paragraph/grid-box__paragraph.css);
-@import url(../blocks/grid-box/__pic/grid-box__pic.css);
+@import url(../blocks/grid-box/__image/_black-sea-img/grid-box__image_black-sea-img.css);
+@import url(../blocks/grid-box/__inverse/grid-box__inverse-content.css);
+@import url(../blocks/grid-box/__inverse/grid-box__inverse-img.css);
 
 @import url(../blocks/talk-travel/talk-travel.css);
 @import url(../blocks/talk-travel/__title/talk-travel__title.css);

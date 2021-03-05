@@ -1,0 +1,11 @@
+.grid-box__image_black-sea-img {
+    max-width: 638px;
+    min-height: 580px ;
+}
+
+@media screen and (max-width: 1279px) {
+    .grid-box__image_black-sea-img {
+        max-width:515px;
+        min-height: 380px;
+    }
+}
